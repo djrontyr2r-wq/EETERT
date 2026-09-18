@@ -1,0 +1,10 @@
+{
+  "name": "Remix R2R AI Mastering Suite",
+  "description": "Professional VST3/AU audio mastering suite with AI Auto-Mastering, 5-band EQ, Multiband Dynamics, Stereo Imager, Harmonic Exciter, Smart Limiter, 24-bit WAV export, and complete JUCE C++ project exporter.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
